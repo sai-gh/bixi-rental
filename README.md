@@ -36,7 +36,7 @@ Contributions to this project are welcome! If you have ideas for further analysi
 
 ## Contact
 
-If you have any questions, or suggestions, or would like to discuss this project further, please feel free to reach out via [email](mailto:your.email@example.com) or [LinkedIn](https://www.linkedin.com/in/yourname/).
+If you have any questions, or suggestions, or would like to discuss this project further, please feel free to reach out via [email](sydishmum@gmail.com) or [LinkedIn](https://www.linkedin.com/in/syed-ishmum/details/experience/).
 
 Enjoy exploring the fascinating world of Bixi bike rentals in Montreal!
 
