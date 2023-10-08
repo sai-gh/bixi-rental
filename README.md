@@ -20,7 +20,7 @@ Here's what you can find in this repository:
 
 ## Dataset
 
-The dataset used in this project contains detailed information about Bixi bike rentals in Montreal for the year 2016. It includes data on rental timestamps, station information, user types, and more. Unfortunately, due to the size of the data, I cannot provide the raw dataset in this repository, but if you are interested in looking into things yourself, [here](https://drive.google.com/drive/folders/19TexYa02mLNYyaXeQgc0eHIOw_UiI1PB?usp=drive_link) is the Google Drive link to the dataset
+The dataset used in this project contains detailed information about Bixi bike rentals in Montreal. It includes data on rental timestamps, station information, user types, and more. Unfortunately, due to the size of the data, I cannot provide the raw dataset in this repository, but if you are interested in looking into things yourself, **[Here](https://drive.google.com/drive/folders/19TexYa02mLNYyaXeQgc0eHIOw_UiI1PB?usp=drive_link)** is the Google Drive link to the dataset
 
 ## Usage
 
