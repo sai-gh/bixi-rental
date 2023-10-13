@@ -1,6 +1,6 @@
-# Bixi Bike Rental Data Analysis (2016)
+# Bixi Bike Rental Data Analysis
 
-Welcome to the Bixi Bike Rental Data Analysis project for the year 2016. In this project, I've delved into the rich dataset of Bixi bike rentals to gain insights into how and when people were renting bikes, popular rental locations, and various filtering options.
+Welcome to the Bixi Bike Rental Data Analysis project. In this project, I've delved into the rich dataset of Bixi bike rentals to gain insights into how and when people were renting bikes, popular rental locations, and various filtering options.
 
 ## Project Overview
 
